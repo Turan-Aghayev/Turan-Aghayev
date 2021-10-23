@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Turan-Aghayev
+- 👋 Hi, I’m Turan
 - 👀 I’m interested in data analytics and data science projects
 - 🌱 I’m currently learning data analytics and data science
 - 💞️ I’m looking to collaborate on data analytics and data scientist
